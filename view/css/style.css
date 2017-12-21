@@ -1,0 +1,20 @@
+*, html, body{
+  color: #333;
+}
+
+#top{
+  background-color:#8EC5E6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.item-prod{
+  height: 150px;
+  width: 23%;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: solid;
+  border-width: 1.5px;
+  border-color: darkgray;
+  border-radius: 7.5px;
+}
